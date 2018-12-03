@@ -5,7 +5,7 @@ This python script tell us :
 2. Temperature
 3. wind speed
 
-In this script, I use API of openwheather website mention above in reference.
+In this script, I use API of openweather website mention above in reference.
 
 Module required : 'requests'
 
